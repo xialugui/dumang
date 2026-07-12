@@ -1,4 +1,5 @@
 # DUMANG
+[简体中文](./README.md) [English](./README.en.md)
 
 DUMANG is a registered mechanical keyboard brand owned by Shenzhen BeyondQ Technology Co., Ltd. The brand focuses on the design and manufacture of modular mechanical keyboards, combining a magnetic modular architecture, DIY-friendly switch and keycap compatibility, and rugged industrial design. The result is a "golden weapon" that players can freely expand and evolve over time.
 

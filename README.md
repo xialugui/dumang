@@ -1,4 +1,5 @@
 # DUMANG
+[简体中文](./README.md) [English](./README.en.md)
 
 毒蟒（DUMANG）是深圳超酷科技有限公司（Shenzhen BeyondQ Technology Co., Ltd.）旗下的注册键盘品牌，专注于模块化机械键盘的设计与制造，主张以磁吸模块化结构、DIY 友好的轴体/键帽兼容性，以及强韧耐用的工业设计，为玩家打造可自由扩展、长期进化的"金色武器"。
 
