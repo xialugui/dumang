@@ -1,0 +1,75 @@
+<svg
+    data-v-680f57db=""
+    width="32"
+    height="344"
+    viewBox="0 0 32 344"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    class="line w-[29px] z-1 relative"
+><g clip-path="url(#clip0_14078_59182)"><path
+            d="M5 332h22v11.5a.5.5 0 0 1-.5.5h-21a.5.5 0 0 1-.5-.5z"
+            fill="#4A4A4A"
+        /><g filter="url(#filter0_d_14078_59182)"><path
+                d="M0 302h32v25a5 5 0 0 1-5 5H5a5 5 0 0 1-5-5z"
+                fill="#3A3A3A"
+            /></g><path
+            d="M27 282a5 5 0 0 1 5 5v15H0v-15a5 5 0 0 1 5-5 2 2 0 0 0 2-2v-12h18v12a2 2 0 0 0 2 2"
+            fill="url(#tail_gradient)"
+        /><path
+            d="M22 0H11v268h11z"
+            fill="url(#paint0_linear_14078_59182)"
+        /></g><defs><linearGradient
+            id="paint0_linear_14078_59182"
+            x1="16.5"
+            y1="0"
+            x2="16.5"
+            y2="268"
+            gradientUnits="userSpaceOnUse"
+        ><stop stop-color="#0F0F0F" /><stop
+                offset=".612"
+                stop-color="gray"
+            /><stop offset=".982" stop-color="white" /><stop
+                offset="1"
+                stop-color="white"
+            /></linearGradient><linearGradient
+            id="tail_gradient"
+            x1="16"
+            y1="266"
+            x2="16"
+            y2="302"
+            gradientUnits="userSpaceOnUse"
+        ><stop stop-color="#ffffff" /><stop
+                offset="1"
+                stop-color="#ffffff"
+            /></linearGradient><clipPath id="clip0_14078_59182"><path
+                fill="#9E9F9F"
+                d="M0 0h32v344H0z"
+            /></clipPath><filter
+            id="filter0_d_14078_59182"
+            x="-2"
+            y="302"
+            width="36"
+            height="34"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB"
+        ><feFlood flood-opacity="0" result="BackgroundImageFix" /><feColorMatrix
+                in="SourceAlpha"
+                type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha"
+            /><feOffset dy="2" /><feGaussianBlur stdDeviation="1" /><feComposite
+                in2="hardAlpha"
+                operator="out"
+            /><feColorMatrix
+                type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"
+            /><feBlend
+                mode="normal"
+                in2="BackgroundImageFix"
+                result="effect1_dropShadow_14078_59182"
+            /><feBlend
+                mode="normal"
+                in="SourceGraphic"
+                in2="effect1_dropShadow_14078_59182"
+                result="shape"
+            /></filter></defs></svg>
